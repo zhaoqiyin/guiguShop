@@ -1,6 +1,8 @@
 /*
 入口JS
  */
+// git branch test 2
+
 import Vue from 'vue'
 import {Button} from 'mint-ui'
 import VueLazyload from 'vue-lazyload'
