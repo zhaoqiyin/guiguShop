@@ -2,7 +2,6 @@
 入口JS
  */
 // git branch test 2
-// git branch test3 set up to track remote branch 'test' from 'origin'
 // create branch guigushop_1_0
 
 import Vue from 'vue'
