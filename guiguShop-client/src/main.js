@@ -1,7 +1,7 @@
 /*
 入口JS
  */
-// git branch test 2
+// git branch test 2 增加注释
 // create branch guigushop_1_0
 
 import Vue from 'vue'
